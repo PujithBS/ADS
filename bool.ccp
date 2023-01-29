@@ -1,7 +1,7 @@
 // Program to count islands in boolean 2D matrix
-#include <stdbool.h>
-#include <stdio.h>
-#include <string.h>
+#include<stdbool.h>
+#include<stdio.h>
+#include<string.h>
 
 #define ROW 5
 #define COL 5
